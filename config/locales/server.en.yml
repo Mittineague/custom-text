@@ -1,0 +1,10 @@
+# custom-text
+
+en:
+  page_not_found:
+    title: "Sorry, try these links instead."
+
+  reports:
+    topics:
+      title: "Baby Bears"
+      yaxis: "Number of Cubs"
