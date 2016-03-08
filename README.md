@@ -1,4 +1,7 @@
-# custom-text  
+# For historical reference only - Changes in the Discourse Core have rendered this plugin obsolete
+[Customize all text in Discourse](https://meta.discourse.org/t/customize-all-text-in-discourse/36092?u=mittineague)
+
+# custom-text
 
 A simple plugin that demonstrates a way to replace text.  
 So simple, that the plugin.rb file contains nothing but comments!  
